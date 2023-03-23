@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h1><b>Welcome to my project 😃</b></h1>
 
 </div>
 
@@ -207,9 +207,12 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Salimer](https://github.com/Salimer)
+- LinkedIn: [Salim Bamahfoodh](https://www.linkedin.com/in/salim-bamahfoodh-707b74200/)
+- Youtube: [Salim Bamahfoodh](https://www.youtube.com/channel/UCGKq9eJQY2qTKRfDDbMOUyA)
+- Facebook: [Salim Bamahfoodh](https://www.facebook.com/S.Bamahfoodh/)
+- Email: s.bamahfoodh@gmail.com
+
 
 👤 **Author2**
 
@@ -247,7 +250,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,7 +260,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank all Microverse community.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
